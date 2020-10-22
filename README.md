@@ -18,4 +18,5 @@ w3bmint3r tool Installation steps:
 ![alt text](https://github.com/karthi-the-hacker/w3bmint3r/raw/main/sample.png)
 
 Enter the full path with m4skup file name: /home/yourname/recon/bugcrowd/m4skup/m4skup.txt
+
 Enter comany name: bugcrowd
