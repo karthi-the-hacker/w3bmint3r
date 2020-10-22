@@ -18,15 +18,15 @@ w3bmint3r tool Installation steps:
 Example:
 
 
- .-----------------------------.           
- |  Hi Hackers                 |           
- |  Tool   : w3bint3r          |           
- |  Author : @karthi_the_hacker|           
- |           Jai Hind          |           
- '-----------------------------'           
-                 ^      (\_/)    
-                 '----- (O.o)    
-                        (> <)    
+ .-----------------------------.
+ |  Hi Hackers                 |
+ |  Tool   : w3bint3r          |
+ |  Author : @karthi_the_hacker|
+ |           Jai Hind          |
+ '-----------------------------'
+                 ^      (\_/)
+                 '----- (O.o)
+                        (> <)
 
 Note After using m4skup tool use this 
 
