@@ -12,10 +12,9 @@ w3bmint3r tool Installation steps:
 7. chmod +x .banner
 8. sudo ./w3bmint3r
 
+# Example:
 
 
-
-#Example:
 ![alt text](https://github.com/karthi-the-hacker/w3bmint3r/raw/main/sample.png)
 
 Enter the full path with m4skup file name: /home/yourname/recon/bugcrowd/m4skup/m4skup.txt
